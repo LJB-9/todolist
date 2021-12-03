@@ -21,18 +21,62 @@
 ## E. 개발 결과물을 사용하는 방법 소개
 
 > To Do List란 우리가 해야 할 일을 작성해 놓은 목록을 말한다. 
-> 전공공부, 동아리 모임, 운동, 아르바이트등과 같은 할일을 목록에 적어 해야 할 일을 하고 난 후 하나씩 하나씩 지워가며 사용한다.
-<img src= 1.png>
-<img src= 2.png>
-<img src= 4.png>
-<img src= 5.png>
-<img src= 6.png>
-<img src= 7.png>
-<img src= 8.png>
-<img src= 9.png>
-<img src= 10.png>
-<img src= 11.png>
-<img src= 12.png>
+> 웹과 앱에서 사용할 수 있으며 서로 연동이 가능하다.
+> 먼저 구글 로그인을 하면 자신만의 ToDoList가 나온다.
+>  그 다음으로는 전공공부, 동아리 모임, 운동, 아르바이트등과 같은 할일을 목록에 적어 해야 할 일을 하고 난 후 하나씩 지우면 된다.
+<img src= 1.PNG  widh = 300 height = 300>
+
+
+> 웹 구글 로그인
+
+
+
+<img src= 2.PNG widh = 300 height = 300>
+
+
+
+> ios 구글 로그인
+
+
+
+<img src= 4.PNG widh = 300 height = 300>
+
+
+> 서로 연동이 가능하다
+
+
+<img src= 5.PNG widh = 300 height = 300>
+
+> 할일 삭제
+
+
+<img src= 6.PNG widh = 300 height = 300>
+
+> 웹에서 할 일이 삭제된다
+
+
+<img src= 7.PNG widh = 300 height = 300>
+
+> 웹에서 할 일을 추가한다
+
+
+<img src= 8.PNG widh = 300 height = 300>
+
+> ios에 할 일이 추가된다
+
+<img src= 9.PNG widh = 300 height = 300>
+
+> ios에서 할 일을 추가한다
+
+<img src= 10.PNG widh = 300 height = 300>
+
+> 웹에 할 일이 추가 된다.
+ 
+<img src= 11.PNG widh = 300 height = 300>
+
+> 사용 종료후 로그아웃 화면
+
+
 ----------------------------------------
 ## F. 개발 결과물의 필요성 및 활용방안
 
